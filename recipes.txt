@@ -1,3 +1,4 @@
 Welcome to Tusk Kitchen
 
 Recipe No 1 : Biryani
+Recipe No 2 : Kheer
