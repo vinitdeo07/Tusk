@@ -6,4 +6,5 @@ Recipe No 2 : Kheer
 Recipe 3 : No sure
 recipe 4 : adding this recipe via vs code
 recipr 5 : Adding this through editor in git hub
+recipe 6 : adding this through editor in git pointer 2
 
